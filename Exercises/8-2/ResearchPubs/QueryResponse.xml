@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResponsePacket revision="1" xmlns="urn:Microsoft.Search.Response">
+    <Response domain="{3C927E62-566D-4193-AF40-B0CA3E4F3E00}">
+    <Range>
+    </Range>
+    <Status>SUCCESS</Status>
+    </Response>
+</ResponsePacket>

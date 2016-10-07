@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSSSOAudit", "MSSSOAudit.csproj", "{EB43FBE5-442C-468B-8463-6AC01B751EEE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{EB43FBE5-442C-468B-8463-6AC01B751EEE}.Debug.ActiveCfg = Debug|.NET
+		{EB43FBE5-442C-468B-8463-6AC01B751EEE}.Debug.Build.0 = Debug|.NET
+		{EB43FBE5-442C-468B-8463-6AC01B751EEE}.Release.ActiveCfg = Release|.NET
+		{EB43FBE5-442C-468B-8463-6AC01B751EEE}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

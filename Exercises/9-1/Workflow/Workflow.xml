@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Workflow xmlns="urn:DataLan.SharePoint.WorkFlow.Engine">
+    <Submit>http://spsportal/sites/workflow/Review</Submit>
+    <Review>http://spsportal/sites/workflow/Approve</Review>
+</Workflow>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebPart xmlns="http://schemas.microsoft.com/WebPart/v2" >
+	<Title>PageView</Title>
+	<Description>A web part to embed pages in the portal</Description>
+	<Assembly>SPSPageView</Assembly>
+	<TypeName>SPSPageView.Container</TypeName>
+	<!-- Specify initial values for any additional base class or custom properties here. -->
+</WebPart>
+

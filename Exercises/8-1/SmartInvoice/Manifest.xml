@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://schemas.microsoft.com/office/xmlexpansionpacks/2003">
+    <version>1.0</version>
+    <updateFrequency>20160</updateFrequency>
+    <uri>urn:schemas-microsoft-com.DataLan.SmartInvoice</uri>
+    <solution>
+        <solutionID>{BDE88D2F-FA67-4890-A674-A2BEE936A1A4}</solutionID>
+        <type>smartDocument</type>
+        <alias lcid="1033">Smart Invoice</alias>
+        <documentSpecific>False</documentSpecific>
+        <targetApplication>Word.Application.11</targetApplication>
+        <file>
+            <type>solutionActionHandler</type>
+            <version>1.0</version>
+            <filePath>SmartInvoice.dll</filePath>
+            <CLSNAME>SmartInvoice.Northwind</CLSNAME>
+            <managed/>
+            <runFromServer>True</runFromServer>
+        </file>
+    </solution>
+    <solution>
+        <solutionID>schema</solutionID>
+        <type>schema</type>
+        <alias lcid="1033">Smart Invoice</alias>
+        <file>
+            <type>schema</type>
+            <version>1.0</version>
+            <filePath>SmartInvoice.xsd</filePath>
+        </file>
+    </solution>
+</manifest>
+ 

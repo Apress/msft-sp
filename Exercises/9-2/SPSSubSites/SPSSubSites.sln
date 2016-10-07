@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SPSSubSites", "SPSSubSites.vbproj", "{BCF23B68-4C71-4F1C-859D-4B97BCDEF705}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{BCF23B68-4C71-4F1C-859D-4B97BCDEF705}.Debug.ActiveCfg = Debug|.NET
+		{BCF23B68-4C71-4F1C-859D-4B97BCDEF705}.Debug.Build.0 = Debug|.NET
+		{BCF23B68-4C71-4F1C-859D-4B97BCDEF705}.Release.ActiveCfg = Release|.NET
+		{BCF23B68-4C71-4F1C-859D-4B97BCDEF705}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

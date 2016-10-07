@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebPart xmlns="http://schemas.microsoft.com/WebPart/v2" >
+    <Title>Site Collection</Title>
+    <Description>A web part to list sub sites</Description>
+    <Assembly>SPSSubSites</Assembly>
+    <TypeName>SPSSubSites.Lister</TypeName>
+</WebPart>

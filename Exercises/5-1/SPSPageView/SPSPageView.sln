@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPSPageView", "SPSPageView.csproj", "{33128C2B-A728-422E-B4CF-60372451306B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SPSPageViewCab", "..\SPSPageViewCab\SPSPageViewCab.vdproj", "{BE9D6290-CF46-4369-86D7-2125DBF2F8B6}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{33128C2B-A728-422E-B4CF-60372451306B}.Debug.ActiveCfg = Debug|.NET
+		{33128C2B-A728-422E-B4CF-60372451306B}.Debug.Build.0 = Debug|.NET
+		{33128C2B-A728-422E-B4CF-60372451306B}.Release.ActiveCfg = Release|.NET
+		{33128C2B-A728-422E-B4CF-60372451306B}.Release.Build.0 = Release|.NET
+		{BE9D6290-CF46-4369-86D7-2125DBF2F8B6}.Debug.ActiveCfg = Debug
+		{BE9D6290-CF46-4369-86D7-2125DBF2F8B6}.Debug.Build.0 = Debug
+		{BE9D6290-CF46-4369-86D7-2125DBF2F8B6}.Release.ActiveCfg = Release
+		{BE9D6290-CF46-4369-86D7-2125DBF2F8B6}.Release.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebPart xmlns="http://schemas.microsoft.com/WebPart/v2" >
+	<Title>MaskTool</Title>
+	<Description>A web part used to show how to create a custom tool part.</Description>
+	<Assembly>SPSMaskTool</Assembly>
+	<TypeName>SPSMaskTool.Part</TypeName>
+	<!-- Specify initial values for any additional base class or custom properties here. -->
+</WebPart>

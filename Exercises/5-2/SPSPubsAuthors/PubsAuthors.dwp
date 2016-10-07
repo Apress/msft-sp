@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebPart xmlns="http://schemas.microsoft.com/WebPart/v2" >
+	<Title>PubsAuthors</Title>
+	<Description>A web part to access the pubs database</Description>
+	<Assembly>SPSPubsAuthors</Assembly>
+	<TypeName>SPSPubsAuthors.View</TypeName>
+	<!-- Specify initial values for any additional base class or custom properties here. -->
+</WebPart>
+

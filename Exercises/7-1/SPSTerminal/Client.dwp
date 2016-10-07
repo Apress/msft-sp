@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebPart xmlns="http://schemas.microsoft.com/WebPart/v2" >
+	<Title>Terminal</Title>
+	<Description>A web part to access terminal services</Description>
+	<Assembly>SPSTerminal</Assembly>
+	<TypeName>SPSTerminal.Client</TypeName>
+	<!-- Specify initial values for any additional base class or custom properties here. -->
+</WebPart>

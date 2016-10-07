@@ -1,0 +1,9 @@
+bin\SmartInvoice2005.dll
+bin\SmartInvoice2005.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ResolveComReference.cache
+obj\Debug\SmartInvoice2005.Resources.resources
+obj\Debug\SmartInvoice2005.ThisDocument.resources
+obj\Debug\SmartInvoice2005.vbproj.GenerateResource.Cache
+obj\Debug\SmartInvoice2005.dll
+obj\Debug\SmartInvoice2005.pdb

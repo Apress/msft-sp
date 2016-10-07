@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns="urn:schemas-microsoft-com.DataLan.SmartInvoice"
+    targetNamespace="urn:schemas-microsoft-com.DataLan.SmartInvoice"
+    elementFormDefault="qualified"
+    attributeFormDefault="unqualified"
+    id="ProductInfo">
+    <xsd:element name="ProductID" type="xsd:string"/>
+    <xsd:element name="ProductName" type="xsd:string"/>
+    <xsd:element name="QuantityPerUnit" type="xsd:string"/>	
+    <xsd:element name="UnitPrice" type="xsd:double"/>
+</xsd:schema>

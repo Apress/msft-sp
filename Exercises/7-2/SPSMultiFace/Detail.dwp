@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebPart xmlns="http://schemas.microsoft.com/WebPart/v2" >
+	<Title>MultiFace</Title>
+	<Description>This web part is intended to show how a connectable web part functions.</Description>
+	<Assembly>SPSMultiFace</Assembly>
+	<TypeName>SPSMultiFace.Detail</TypeName>
+	<!-- Specify initial values for any additional base class or custom properties here. -->
+</WebPart>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebPart xmlns="http://schemas.microsoft.com/WebPart/v2" >
+    <Title>Your Information</Title>
+    <Description>A web part that shows identity information</Description>
+    <Assembly>SPSIdentity</Assembly>
+    <TypeName>SPSIdentity.Reporter</TypeName>
+</WebPart>

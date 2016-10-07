@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebPart xmlns="http://schemas.microsoft.com/WebPart/v2" >
+    <Title>Your Global Task List</Title>
+    <Description>A web part to collect all tasks for a user</Description>
+    <Assembly>SPSTasks</Assembly>
+    <TypeName>SPSTasks.Lister</TypeName>
+</WebPart>
